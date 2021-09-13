@@ -1,0 +1,34 @@
+html{
+    width:100%;
+    height:100%
+}
+body{
+    background-color: rgb(255, 255, 255);
+    width:100%;
+    height:100%;
+}
+.h_one_icons{
+    text-align: center;
+}
+.ul_ul_icons{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+.li_icons{
+    width:60px;
+    height:100px;
+    margin: 20px;
+}
+.div_icons_center{
+    display: flex;
+    justify-content: center;
+    margin:auto;
+}
+.span_icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
